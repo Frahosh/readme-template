@@ -36,6 +36,11 @@
 - **[key_feature_2]**
 - **[key_feature_3]**
 
+## Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+- [Live Demo Link](https://google.com)
+
 ## Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
@@ -46,7 +51,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```sh
- !pip install tensorflow
+ npm install
 ```
 
 ### Setup
@@ -62,7 +67,7 @@ Clone this repository to your desired folder:
 
 Install this project with:
 ```sh
-something
+npm install
 ```
 
 
@@ -71,7 +76,7 @@ something
 To run the project, execute the following command:
 
 ```sh
-something
+npm start
 ```
 
 ### Run tests
@@ -79,12 +84,13 @@ something
 To run tests, run the following command:
 
 ```sh
-something
+npm test
 ```
 
 ## Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
+
 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/test)
